@@ -1,4 +1,5 @@
 docker/cert
+*.swp
 */build/*
 *.db
 .DS_Store
