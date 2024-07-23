@@ -8,7 +8,7 @@ This repository contains Vibrant's development of software security requirements
 
 We recommend treating all requirements with a mild skepticism.  Having said that, we also enjoy (shall we say) vibrant discussion.
 
-Please consider these a starting point for understanding general security within the context of modern software.
+Please consider these a starting point for understanding security within the context of modern software.
 
 >[!NOTE]
 > As read on the cover of the Guide . . . DON'T PANIC.  This is only a draft. :people_hugging:
