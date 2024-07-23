@@ -39,3 +39,7 @@ You may use a [maturity-calibrated](./system_requirements/INDEX.md) set of requi
 
 > [!IMPORTANT]
 > This set of requirements in no way represents a complete alignment to NIST.  Consider it Vibrant's (give or take) consensus "next step" security assurance for your application.
+
+## References
+
+- [Glossary of terms](./glossary.md)
