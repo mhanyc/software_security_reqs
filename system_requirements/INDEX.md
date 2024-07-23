@@ -9,6 +9,7 @@ So, these requirements should match Vibrant's consensus on achievable state-of-t
 > 
 > This set of requirements should be **achievable**. Consider them as possible release standards sometime in the near future and comment accordingly.  
 
+If you are wondering how a system measures against NIST standards, refer to our [validation requirements](../validation_requirements/INDEX.md).
 
 # Requirement Categories
 

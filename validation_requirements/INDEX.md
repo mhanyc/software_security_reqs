@@ -5,6 +5,8 @@ Because Vibrant must (due to our [relationship with [SAMHSA](https://www.samhsa.
 >[!IMPORTANT]
 > It is very unlikely we meet NIST requirements everywhere, all the time. . However, Vibrant must use NIST standards as a yardstick for all systems.
 
+If you are wondering how to apply Vibrant standards to your system, refer to [system requirements](../system_requirements/INDEX.md), which aim to match Vibrant's capability and risk appetite.
+
 ## Requirement Categories
 
   - [data-protection](./data-protection.md)
