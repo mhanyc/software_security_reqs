@@ -35,14 +35,14 @@ Here's how we do this.
 
 InfoSec uses the full ASVS, unedited, as our [validation requirements](./validation_requirements/INDEX.md) for all applications.  If we encounter software not matching the ASVS model, we will adapt.
 
->[!NOTE]
+>[!TIP]
 > This broad application of thorough requirements answers the question "How well is my system doing compared to best practice?"
 
 ### System Development
 
 You may use a [maturity-calibrated](./system_requirements/INDEX.md) set of requirements as a way to reach Vibrant's "next step" assurance level.
 
->[!NOTE]
+>[!TIP]
 > This narrow application of specific requirements answers the question "What do I have to do to be compliant with Vibrant standards?"
 
 ## References
