@@ -29,3 +29,9 @@ As we explore our software security practice through this lens, we will work wit
 ### Validation
 
 InfoSec uses the full ASVS, unedited, as our [validation standard](./validation_requirements/INDEX.md) for all applications.  If we encounter software not matching the ASVS model, we will adapt.
+
+### System Development
+
+You may use a maturity-calibrated set of requirements as a way to reach Vibrant's "next step" assurance level.
+
+	This set of requirements in no way represents a complete alignment to NIST.  Consider it Vibrant's (give or take) consensus "next step" security assurance for your application.
