@@ -25,9 +25,11 @@ We currently fork the [actual ASVS](./ASVS_docs/README.md) into this repository 
 
 ## Usage
 
-At least initially, these will be used by InfoSec to measure systems against a standard relevant to Vibrant's need.
+At least initially, this documentation will be used by InfoSec to measure systems against consensus best practice (informed by NIST).
 
-As we explore our software security practice through this lens, we will work with you (dear reader) to craft [SMART](https://en.wikipedia.org/wiki/SMART_criteria) requirements for your specfic needs (together ::hearts::) 
+As we understand need and appetite, we will work with you (dear reader) to craft [SMART](https://en.wikipedia.org/wiki/SMART_criteria) requirements for your specific system development needs. (together ::hearts::) 
+
+Here's how we do this.
 
 ### Validation
 
