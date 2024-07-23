@@ -10,11 +10,13 @@ We recommend treating all requirements with a mild skepticism.  Having said that
 
 Please consider these a starting point for understanding general security within the context of modern software.
 
-	These are (and will likely remain indefinitely) in draft.
+>[!NOTE]
+> These are (and will likely remain indefinitely) in draft.
 
 ### Origins
 
 InfoSec chose the latest release of [OWASP Application Security Verification Standard](https://github.com/OWASP/ASVS) as the inspiration for Vibrant's security requirements, for a variety of reasons.  Here are a few:
+
 
 	- it maps directly to NIST guidelines
 	- it offers tiers of requirements, allowing for variation in maturity and risk management
@@ -36,4 +38,5 @@ InfoSec uses the full ASVS, unedited, as our [validation standard](./validation_
 
 You may use a [maturity-calibrated](./system_requirements/INDEX.md) set of requirements as a way to reach Vibrant's "next step" assurance level.
 
-	This set of requirements in no way represents a complete alignment to NIST.  Consider it Vibrant's (give or take) consensus "next step" security assurance for your application.
+> [!IMPORTANT]
+> This set of requirements in no way represents a complete alignment to NIST.  Consider it Vibrant's (give or take) consensus "next step" security assurance for your application.
