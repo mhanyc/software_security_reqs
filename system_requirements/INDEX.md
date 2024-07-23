@@ -5,7 +5,7 @@ Vibrant continues to awaken to concepts of security, and the control of IT syste
 So, these requirements should match Vibrant's consensus on achievable state-of-the-art.  Consider them as possible release standards sometime in the near future when reviewing.  If you see anything that doesn't pass the Vibrant smell test, do reach out!
 
 > [!IMPORTANT]
-> it is very unlikely we meet the level 1 requirements considered 'adequate' first steps by NIST.
+> it is very unlikely we meet the level 1 requirements considered 'adequate' first steps by NIST.  This set of requirements should be **achievable**
 
 # Requirement Categories
 
