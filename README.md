@@ -24,4 +24,8 @@ InfoSec chose the latest release of [OWASP Application Security Verification Sta
 
 At least initially, these will be used by InfoSec to measure systems against a standard relevant to Vibrant's need.
 
-As we explore our software security practice through this lens, we will work with you (dear reader) to craft [SMART](https://en.wikipedia.org/wiki/SMART_criteria) requirements for your soecfic needs (together ::hearts::) 
+As we explore our software security practice through this lens, we will work with you (dear reader) to craft [SMART](https://en.wikipedia.org/wiki/SMART_criteria) requirements for your specfic needs (together ::hearts::) 
+
+### [Validation](./validation_requirements/INDEX.md)
+
+InfoSec uses the full ASVS, unedited, as our validation standard for all applications.  If we encounter software not matching the ASVS model, we will adapt.
