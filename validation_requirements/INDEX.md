@@ -2,6 +2,9 @@
 
 Because Vibrant must (due to our [relationship with [SAMHSA](https://www.samhsa.gov/newsroom/press-announcements/202106161430)) understand where and how it conforms to NIST security controls, we use the full, en-edited, latest-release standards in validation.
 
+>[!IMPORTANT]
+> It is very unlikely we meet NIST requirements everywhere, all the time. . However, Vibrant must use NIST standards as a yardstick for all systems.
+
 ## Requirement Categories
 
   - [data-protection](./data-protection.md)
@@ -14,7 +17,6 @@ Because Vibrant must (due to our [relationship with [SAMHSA](https://www.samhsa.
   - [commumnications](./commumnications.md)
   - [error-logging](./error-logging.md)
   - [validation-sanitation-encoding](./validation-sanitation-encoding.md)
-  - [iot](./iot.md)
   - [configuration-management](./configuration-management.md)
   - [access-control](./access-control.md)
   - [malicious-code](./malicious-code.md)

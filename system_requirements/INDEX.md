@@ -21,7 +21,6 @@ So, these requirements should match Vibrant's consensus on achievable state-of-t
   - [commumnications](./commumnications.md)
   - [error-logging](./error-logging.md)
   - [validation-sanitation-encoding](./validation-sanitation-encoding.md)
-  - [iot](./iot.md)
   - [configuration-management](./configuration-management.md)
   - [access-control](./access-control.md)
   - [malicious-code](./malicious-code.md)
