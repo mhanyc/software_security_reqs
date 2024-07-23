@@ -11,16 +11,15 @@ We recommend treating all requirements with a mild skepticism.  Having said that
 Please consider these a starting point for understanding general security within the context of modern software.
 
 >[!NOTE]
-> These are (and will likely remain indefinitely) in draft.
+> This is only a draft.
 
 ### Origins
 
 InfoSec chose the latest release of [OWASP Application Security Verification Standard](https://github.com/OWASP/ASVS) as the inspiration for Vibrant's security requirements, for a variety of reasons.  Here are a few:
 
-
-	- it maps directly to NIST guidelines
-	- it offers tiers of requirements, allowing for variation in maturity and risk management
-	- it represents consensus best-practice within a global application security community
+- it maps directly to NIST guidelines
+- it offers tiers of requirements, allowing for variation in maturity and risk management
+- it represents consensus best-practice within a global application security community
 
 We currently fork the [actual ASVS](./ASVS_docs/README.md) into this repository (periodically) for quick & easy reference.
 
