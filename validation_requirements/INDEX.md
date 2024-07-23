@@ -17,6 +17,5 @@ Because Vibrant must (due to our [relationship with [SAMHSA](https://www.samhsa.
   - [iot](./iot.md)
   - [configuration-management](./configuration-management.md)
   - [access-control](./access-control.md)
-  - [INDEX](./INDEX.md)
   - [malicious-code](./malicious-code.md)
   - [session-management](./session-management.md)
