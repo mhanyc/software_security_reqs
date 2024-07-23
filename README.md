@@ -27,7 +27,7 @@ We currently fork the [actual ASVS](./ASVS_docs/README.md) into this repository 
 
 At least initially, this documentation will be used by InfoSec to measure systems against consensus best practice (informed by NIST).
 
-As we understand need and appetite, we will work with you (dear reader) to craft [SMART](https://en.wikipedia.org/wiki/SMART_criteria) requirements for your specific system development needs. (together ::hearts::) 
+As we understand need and appetite, we will work with you (dear reader) to craft [SMART](https://en.wikipedia.org/wiki/SMART_criteria) requirements for your specific system development needs. (together :love_letter:) 
 
 Here's how we do this.
 
