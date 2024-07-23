@@ -20,6 +20,8 @@ InfoSec chose the latest release of [OWASP Application Security Verification Sta
 	- it offers tiers of requirements, allowing for variation in maturity and risk management
 	- it represents consensus best-practice within a global application security community
 
+We currently fork the [actual ASVS](./ASVS_docs/README.md) into this repository (periodically) for quick & easy reference.
+
 ## Usage
 
 At least initially, these will be used by InfoSec to measure systems against a standard relevant to Vibrant's need.
