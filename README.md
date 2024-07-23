@@ -11,7 +11,7 @@ We recommend treating all requirements with a mild skepticism.  Having said that
 Please consider these a starting point for understanding general security within the context of modern software.
 
 >[!NOTE]
-> As read on the cover of the Guide . . . DON'T PANIC.  This is only a draft.
+> As read on the cover of the Guide . . . DON'T PANIC.  This is only a draft. :people_hugging:
 
 ### Origins
 
