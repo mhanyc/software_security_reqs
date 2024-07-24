@@ -1,6 +1,6 @@
 # WTF (What's this for?)
 
-Vibrant continues to invest in securing data critical to help seekers; and increasingly we are learning that we write software.
+Vibrant continues to invest in securing service delivery and proteching data critical to help seekers.  Meanwhile, we are learning again that we write software.
 
 This repository contains Vibrant's development of software security requirements.  It is maintained by the InfoSec team.
 
