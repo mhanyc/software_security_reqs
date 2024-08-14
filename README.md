@@ -19,7 +19,10 @@ This repository contains Vibrant's development of system security requirements. 
   1. [business_logic](./business_logic.md)
   1. [files-resources](./files-resources.md)
   1. [api](./api.md)
-  1. [Glossary(./glossary.md) 1. [configuration-management](./configuration-management.md)
+  1. [configuration-management](./configuration-management.md)
+  
+  ## other resources
+  - [Glossary](./glossary.md)
 
 ## Introduction 
 
