@@ -19,7 +19,7 @@ This repository contains Vibrant's development of system security requirements. 
   1. [business_logic](./business_logic.md)
   1. [files-resources](./files-resources.md)
   1. [api](./api.md)
-  1. [configuration-management](./configuration-management.md)
+  1. [Glossary(./glossary.md) 1. [configuration-management](./configuration-management.md)
 
 ## Introduction 
 
@@ -45,8 +45,3 @@ InfoSec chose the latest release of [OWASP Application Security Verification Sta
 - it offers tiers of requirements, allowing for variation in maturity and risk management
 - it represents consensus best-practice within a global application security community
 
-We currently fork the [actual ASVS](./ASVS_docs/README.md) into this repository (periodically) for quick & easy reference.
-
-## References
-
-- [Glossary of terms](./glossary.md)
