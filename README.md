@@ -4,34 +4,38 @@ Vibrant continues to invest in securing service delivery and proteching data cri
 
 This repository contains Vibrant's development of software security requirements.  It is maintained by the InfoSec team.
 
-## Security Requirements
+# Index
 
-Please consider these a starting point for understanding security within the context of modern software.
+  - [data-protection](./data-protection.md)
+  - [authentication](./authentication.md)
+  - [cryptography](./cryptography.md)
+  - [files-resources](./files-resources.md)
+  - [business_logic](./business_logic.md)
+  - [architecture](./architecture.md)
+  - [api](./api.md)
+  - [commumnications](./commumnications.md)
+  - [error-logging](./error-logging.md)
+  - [validation-sanitation-encoding](./validation-sanitation-encoding.md)
+  - [configuration-management](./configuration-management.md)
+  - [access-control](./access-control.md)
+  - [malicious-code](./malicious-code.md)
+  - [session-management](./session-management.md)
 
->[!NOTE]
-> As read on the cover of the Guide . . . DON'T PANIC.  This is only a draft. :people_hugging:
+## System Security Requirements
+
+Vibrant continues to awaken to concepts of security, and the control of IT systems - and though we have started to invest (time, money, and person-power) in security, we have a long way to go.
+
+So, these requirements should match Vibrant's consensus on achievable state-of-the-art.  If you see anything that doesn't pass the Vibrant smell test, do reach out!
+
+> [!IMPORTANT]
+> It is very unlikely we meet the level 1 requirements considered 'adequate' first steps by NIST, much less level 2 or 3.
+> 
+> This set of requirements should be **achievable**. Consider them as possible release standards sometime in the near future and comment accordingly.  
 
 ## Usage
 
-At least initially, this documentation will be used by InfoSec to measure systems against consensus best practice (informed by NIST).
-
 As we understand need and appetite, we will work with you (dear reader) to craft [SMART](https://en.wikipedia.org/wiki/SMART_criteria) requirements for your specific system development needs. (together :love_letter:) 
 
-Here's how we do this.
-
-### Validation
-
-InfoSec uses the full ASVS, unedited, as our [validation standard](./validation_standard/INDEX.md) for all applications (because it offers a complete view of NIST control specification). If we encounter software not matching the ASVS model, we will adapt.
-
->[!TIP]
-> This tries to answer the question "How well is my system doing compared to best practice?"
-
-### System Development
-
-You may use a [maturity-calibrated](./system_requirements/INDEX.md) set of requirements as a way to reach Vibrant's "next step" assurance level.
-
->[!TIP]
-> This tries to answer the question "What do I have to do to be compliant with Vibrant standards?"
 
 ### Origins
 
