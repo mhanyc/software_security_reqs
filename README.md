@@ -4,22 +4,22 @@ Vibrant continues to invest in securing service delivery and proteching data cri
 
 This repository contains Vibrant's development of software security requirements.  It is maintained by the InfoSec team.
 
-# Index
+# Index 
 
-  - [data-protection](./data-protection.md)
-  - [authentication](./authentication.md)
-  - [cryptography](./cryptography.md)
-  - [files-resources](./files-resources.md)
-  - [business_logic](./business_logic.md)
-  - [architecture](./architecture.md)
-  - [api](./api.md)
-  - [commumnications](./commumnications.md)
-  - [error-logging](./error-logging.md)
-  - [validation-sanitation-encoding](./validation-sanitation-encoding.md)
-  - [configuration-management](./configuration-management.md)
-  - [access-control](./access-control.md)
-  - [malicious-code](./malicious-code.md)
-  - [session-management](./session-management.md)
+  1. [architecture](./architecture.md)
+  1. [authentication](./authentication.md)
+  1. [session-management](./session-management.md)
+  1. [access-control](./access-control.md)
+  1. [validation-sanitation-encoding](./validation-sanitation-encoding.md)
+  1. [cryptography](./cryptography.md)
+  1. [error-logging](./error-logging.md)
+  1. [data-protection](./data-protection.md)
+  1. [commumnications](./commumnications.md)
+  1. [malicious-code](./malicious-code.md)
+  1. [business_logic](./business_logic.md)
+  1. [files-resources](./files-resources.md)
+  1. [api](./api.md)
+  1. [configuration-management](./configuration-management.md)
 
 ## System Security Requirements
 
