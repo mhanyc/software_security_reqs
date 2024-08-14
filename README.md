@@ -1,8 +1,8 @@
-# WTF (What's this for?)
+# Welcome
 
 Vibrant continues to invest in securing service delivery and proteching data critical to help seekers.  Meanwhile, we are learning again that we write software.
 
-This repository contains Vibrant's development of software security requirements.  It is maintained by the InfoSec team.
+This repository contains Vibrant's development of system security requirements.  It is maintained by the InfoSec team.
 
 # Index 
 
