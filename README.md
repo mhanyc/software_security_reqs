@@ -1,4 +1,4 @@
-# Welcome
+# System Security Requirements
 
 Vibrant continues to invest in securing service delivery and proteching data critical to help seekers.  Meanwhile, we are learning again that we write software.
 
@@ -21,7 +21,7 @@ This repository contains Vibrant's development of system security requirements. 
   1. [api](./api.md)
   1. [configuration-management](./configuration-management.md)
 
-## System Security Requirements
+## Introduction 
 
 Vibrant continues to awaken to concepts of security, and the control of IT systems - and though we have started to invest (time, money, and person-power) in security, we have a long way to go.
 
