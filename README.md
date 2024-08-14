@@ -4,7 +4,7 @@ Vibrant continues to invest in securing service delivery and proteching data cri
 
 This repository contains Vibrant's development of system security requirements.  It is maintained by the InfoSec team.
 
-# Index 
+# Requirements Index 
 
   1. [architecture](./architecture.md)
   1. [authentication](./authentication.md)
@@ -23,8 +23,9 @@ This repository contains Vibrant's development of system security requirements. 
   
   ## other resources
   - [Glossary](./glossary.md)
+  - [Origin Requirements Framework](https://owasp.org/www-project-application-security-verification-standard/)
 
-## Introduction 
+# Introduction 
 
 Vibrant continues to awaken to concepts of security, and the control of IT systems - and though we have started to invest (time, money, and person-power) in security, we have a long way to go.
 
